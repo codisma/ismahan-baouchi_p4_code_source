@@ -1,0 +1,3 @@
+User-agent: Googlebot
+Allow: 
+sitemap:  https://codisma.github.io/Ismahan_baouchi_P04-code_source/sitemap.xml

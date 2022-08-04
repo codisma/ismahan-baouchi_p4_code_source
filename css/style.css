@@ -442,7 +442,7 @@ body {
     h1, h2, h3, h4, h5, h6, p, label, .btn, a {
     font-family : "helvetica";
     font-weight : 400;
-    color : #575757 !important ;
+    color : black !important ;
     }
     .container {
     max-width : 1000px;

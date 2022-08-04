@@ -200,4 +200,4 @@ $(document).ready(function() {
     setFillScreenBlocHeight()
 }), $(function() {
     $('[data-toggle="tooltip"]').tooltip()
-});
+})
